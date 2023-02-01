@@ -7,5 +7,5 @@ You can find more information on the projects on the sites of the corresponding 
 * [E3D - Institute of Energy Efficiency and Sustainable Building (RWTH Aachen University)](https://www.e3d.rwth-aachen.de/go/id/tzhls)
 * [ROM Technik GmbH](https://www.rom-technik.de/home/)
 
-* [project Map](https://ewb.innoecos.com/Group/03EN1050verbund/Informationen)
+* [Project Map](https://ewb.innoecos.com/Group/03EN1050verbund/Informationen)
 
